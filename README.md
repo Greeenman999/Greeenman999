@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to get better at developing
-- 🥅 2022 Goals: Build my own Minecraft Client
+- 🥅 2023 Goals: Build my own Minecraft Client
 - ⚡ Fun fact: I love to play drums
 
 ### Connect with me:
